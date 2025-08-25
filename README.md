@@ -7,6 +7,13 @@ Welcome to the Mini Machine Learning Projects Repository—a curated collection 
 
 ---
 
+
+## Table of contents:
+| No. 	| Datasets 																										| Tool   	|
+|---	| ---      																										| ---	 	|	
+|01		|[Employee Attrition Prediction](Movie%20Analysis)										| Python 	|
+
+
 ## Repository Structure
 
 ```
