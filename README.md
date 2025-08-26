@@ -8,7 +8,7 @@ Welcome to the Mini Machine Learning Projects Repository—a curated collection 
 ---
 
 
-## Table of contents
+## Projects in repository 
 | No. 	| Datasets 																										| Tool   	|
 |---	| ---      																										| ---	 	|	
 |01		|[Employee Attrition Prediction](Employee-Attrition-Prediction)										| Python 	|
